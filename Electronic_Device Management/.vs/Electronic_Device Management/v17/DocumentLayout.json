@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\electronicdevicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\electronicdevicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\importdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\importdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\import.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|c:\\users\\lenovo\\desktop\\electronicdevice\\electronic_device management\\electronic_device management\\electronic_device management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D4C8D49-2D2C-4CE4-A8CF-C14EDB31C2A9}|Electronic_Device Management\\Electronic_Device Management.csproj|solutionrelative:electronic_device management\\electronic_device management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Program.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Program.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:50:57.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Electronic_Device Management\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T17:50:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Electronic_Device Management\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T17:47:47.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA5wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:47:02.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:38:47.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImportDetail.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\ImportDetail.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\ImportDetail.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\ImportDetail.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\ImportDetail.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:38:10Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Import.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Import.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\Import.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Import.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\Import.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:37:57.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Product.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:37:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Order.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:30:14.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectronicDeviceContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\ElectronicDeviceContext.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\ElectronicDeviceContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\ElectronicDeviceContext.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\ElectronicDeviceContext.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAiwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:26:14.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Models\\Category.cs",
+              "RelativeToolTip": "Electronic_Device Management\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:25:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Electronic_Device Management.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Electronic_Device Management.csproj",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\Electronic_Device Management.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\Electronic_Device Management.csproj",
+              "RelativeToolTip": "Electronic_Device Management\\Electronic_Device Management.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T17:13:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Electronic_Device Management\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\ElectronicDevice\\Electronic_Device Management\\Electronic_Device Management\\appsettings.json",
+              "RelativeToolTip": "Electronic_Device Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T17:11:35.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
